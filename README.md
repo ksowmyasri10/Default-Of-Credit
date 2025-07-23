@@ -104,7 +104,7 @@ git clone https://github.com/ksowmyasri10/Default-Of-Credit.git
 cd Default-Of-Credit
 ```
 
-2. Open `surya.ipynb` in Jupyter Notebook or Google Colab.
+2. Open `sowmya.ipynb` in Jupyter Notebook or Google Colab.
 
 ---
 
