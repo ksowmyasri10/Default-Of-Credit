@@ -86,11 +86,7 @@ Credit card companies aim to mitigate financial risk by identifying customers li
 ## 🗂️ Project Structure
 
 ```
-Default-Of-Credit/
-├── data/                # Dataset files
-├── sowmya.ipynb          # Main notebook with code and analysis
-├── README.md            # Project overview (this file)
-└── requirements.txt     # (Optional) Environment dependencies
+default-of-credit/ ├── data/ # Raw dataset (Excel or CSV) ├── notebook.ipynb # Main analysis and model building ├── README.md # Project overview └── requirements.txt # (Optional) Python dependencies
 ```
 
 ---
